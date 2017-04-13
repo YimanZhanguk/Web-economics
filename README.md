@@ -1,6 +1,6 @@
 # Web-economics
 real time bidding -- bidding strategy
-This is the project code for group part.
+group_project: This is the project code for group part.
 
 
 
